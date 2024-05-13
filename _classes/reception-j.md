@@ -1,4 +1,4 @@
 ---
 Title: Reception - J
-layout: calendar
+layout: class
 ---
