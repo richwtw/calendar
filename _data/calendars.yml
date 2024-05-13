@@ -1,12 +1,16 @@
 reception-c:
   name: Reception - C
+  colour: AD1457
   id: Y184Y2RkZjZkN2Y5MjhjMDAxYTYxMGMzZmRlYzJhODA1NzkwNzlkNGU1ZDVlZWU4ZThkYmM1ZTA0ZDY3YWU5ZjI0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 reception-s:
   name: Reception - S
+  colour: 7986CB
   id: Y183ZjgwODVjNmM4YWEzY2M4MTZiOTFmZTJlNTRmZDYxZDAyYmZjMmZkNzI3ODgwNzFhYjBmNDNkYjNjMWM1NmIzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 school-terms:
   name: School Terms
+  colour: F09300
   id: Y182OWQ5MmEyOGU1Y2ZhMTk4M2I5NjhkOGI1ZmNmNzRjMWIxNjY5ZTgzYmFhZWE1NGY1OGY3M2RlMDhkM2JlYzgzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 school-other:
+  colour: 009688
   name: School Other
   id: Y184NjM1ZDJhMDdjN2M5YjQ2M2E0MThkNDYyNjkyOWJiZTUwZmI3ZTgyZTQ2YTY2YTEyYWU4YWYzMmI4ODIzNTU3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
