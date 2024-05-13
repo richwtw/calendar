@@ -1,38 +1,38 @@
 reception-c:
   name: Reception - C
-  colour: 4e79a7
+  colour: 795548
   id: Y184Y2RkZjZkN2Y5MjhjMDAxYTYxMGMzZmRlYzJhODA1NzkwNzlkNGU1ZDVlZWU4ZThkYmM1ZTA0ZDY3YWU5ZjI0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 reception-s:
   name: Reception - S
-  colour: f28e2c
+  colour: E67C73
   id: Y183ZjgwODVjNmM4YWEzY2M4MTZiOTFmZTJlNTRmZDYxZDAyYmZjMmZkNzI3ODgwNzFhYjBmNDNkYjNjMWM1NmIzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 school-terms:
   name: School Terms
-  colour: e15759
+  colour: D50000
   id: Y182OWQ5MmEyOGU1Y2ZhMTk4M2I5NjhkOGI1ZmNmNzRjMWIxNjY5ZTgzYmFhZWE1NGY1OGY3M2RlMDhkM2JlYzgzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 school-other:
   name: School Other
-  colour: 76b7b2
+  colour: F4511E
   id: Y184NjM1ZDJhMDdjN2M5YjQ2M2E0MThkNDYyNjkyOWJiZTUwZmI3ZTgyZTQ2YTY2YTEyYWU4YWYzMmI4ODIzNTU3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 year-1-e:
   name: Year 1 - E
-  colour: 59a14f
+  colour: EF6C00
   id: Y18wZjk0ZTMwNGQ2ZGRiZDJmNzY1YjA4YTBhMTg0OThjN2M1OGMxZjllMDJhNGU5YzJjMTJiODExN2ZhMjIzOTU4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 year-1-p:
   name: Year 1 - P
-  colour: edc949
+  colour: F09300
   id: Y18xNWJhMjQyOTUwMzFlM2E1NWQ4ZGE3ODUxZTcxNjg5NGQ2ZDc0MDdiNGVmOTczYjUzMTJhNTc0YWNlY2Q5ZjY4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 year-2-m: 
   name: Year 2 - m
-  colour: af7aa1
+  colour: 009688
   id: Y181YWYyMjNiZGYzNWJjNTg2MzYyY2VlZjIwNTFhMjI5YmJkOGY4NDRhMWU3NWQ1MmY1OWEyNmEzYjFmMGM0YjEyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 year-2-n:
   name: Year 2 - n
-  colour: ff9da7
+  colour: 0B8043
   id: Y19mNWUxOTI1Mjg3NDA2MTg2MGQ4M2E4MjVlNTg3NjhmZWE2MTRiNDJlMWExZTc0ZjZhM2VlMzMyYjEyZDk2MDFkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 year-3-x:
   name: Year 3 - x
-  colour: 9c755f
+  colour: 7CB342
 year-3-y: 
   name: Year 3 - y
-  colour: bab0ab
+  colour: C0CA33
