@@ -1,5 +1,5 @@
 ---
-title: Reception - combined
+title: Combined calendar
 layout: class
 calendars: [reception-c, reception-s, year-1-e, year-1-p, school-terms, school-other]
 ---
