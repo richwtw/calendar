@@ -25,9 +25,11 @@ year-1-p:
 year-2-m: 
   name: Year 2 - m
   colour: af7aa1
+  id: Y181YWYyMjNiZGYzNWJjNTg2MzYyY2VlZjIwNTFhMjI5YmJkOGY4NDRhMWU3NWQ1MmY1OWEyNmEzYjFmMGM0YjEyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 year-2-n:
   name: Year 2 - n
   colour: ff9da7
+  id: Y19mNWUxOTI1Mjg3NDA2MTg2MGQ4M2E4MjVlNTg3NjhmZWE2MTRiNDJlMWExZTc0ZjZhM2VlMzMyYjEyZDk2MDFkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 year-3-x:
   name: Year 3 - x
   colour: 9c755f
