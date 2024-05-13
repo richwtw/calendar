@@ -1,6 +1,6 @@
--reception-c:
+reception-c:
   name: Reception - C
   id: xyz
--reception-s:
+reception-s:
   name: Reception - S
   id: abc
