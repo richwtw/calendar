@@ -1,0 +1,10 @@
+collections:
+  class:
+    output: true
+    permalink: /class/:title
+title: Walnut Tree Walk Calendar
+description: Calendars for the school
+url: https://calendar.walnuttree.school
+author: Rich Bradish
+gems:
+- jekyll-seo-tag
