@@ -9,9 +9,8 @@ https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FLondon
 &src={{site.data.calendars[calendar].id}}
       {%- endfor -%}
       {%- endcapture -%}
-      {{calendar_url}}
       <div class = "ratio ratio-1x1">
-        <iframe src="{{calendar_url}}" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+        <iframe src="{{- calendar_url -}}" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
       </div>
   </body>
 </html>
