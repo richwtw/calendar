@@ -3,6 +3,7 @@
    {% include head.html %}
   <body id = "top" class = "white">
       <h4>{{page.title}}</h4>
+      {{content}}
       {%- capture calendar_url -%}
 https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FLondon&bgcolor=%23ffffff&showTitle=0&showPrint=0&showTz=0&hl=en_GB
          {%- for calendar in page.calendars -%}
