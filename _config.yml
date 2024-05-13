@@ -1,5 +1,5 @@
 collections:
-  class:
+  classes:
     output: true
     permalink: /class/:title
 title: Walnut Tree Walk Calendar
