@@ -4,11 +4,10 @@
   <body id = "top" class = "white">
       <h4>{{page.title}}</h4>
       {%- capture calendar_url -%}
-https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FLondon&bgcolor=%23ffffff&showTitle=0&showPrint=0&showTz=0
-         &hl=en_GB
+https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FLondon&bgcolor=%23ffffff&showTitle=0&showPrint=0&showTz=0&hl=en_GB
          {%- for calendar in page.calendars -%}
-            &src={{site.data.calendars[calendar].id}}
-            &color=%23{{site.data.calendars[calendar].colour}}
+&src={{site.data.calendars[calendar].id}}
+&color=%23{{site.data.calendars[calendar].colour}}
          {%- endfor -%}
       {%- endcapture -%}
       <div class = "ratio ratio-1x1">
